@@ -25,4 +25,6 @@ Other Tools: Flask-CORS, dotenv, PyPDF2, FAISS, Tokenizers
 Live Demo
 - **Frontend (React)**: [Visit Chatbot UI](https://astrobot-frontend-h0zs.onrender.com)
 
- <img src="Screenshot 2025-06-26 220640.png " alt="Screenshot 1" width="45%" style="margin-right: 10px;"/>
+<p align="center">
+   <img src="Screenshot 2025-06-26 220640.png " alt="Screenshot 1"/>
+</p>
