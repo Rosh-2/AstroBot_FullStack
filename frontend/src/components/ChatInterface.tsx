@@ -8,7 +8,7 @@ const ChatInterface: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      text: "Greetings, space explorer! I'm your cosmic companion, AstroBot. Ask me anything about space, stars, planets, or the universe!",
+      text: "Greetings, space explorer! I'm Sheldon Cooper. Ask me anything about space, stars, planets, or the universe!",
       sender: 'bot',
       timestamp: new Date(),
     },
