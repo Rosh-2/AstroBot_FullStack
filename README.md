@@ -21,3 +21,6 @@ The primary goal of this chatbot is to serve as an intelligent assistant for stu
     - Frontend: AWS Amplify
     - Backend: AWS Elastic Beanstalk
 Other Tools: Flask-CORS, dotenv, PyPDF2, FAISS, Tokenizers
+
+Live Demo
+**Frontend (React)**: [Visit Chatbot UI](https://astrobot-frontend-h0zs.onrender.com)
