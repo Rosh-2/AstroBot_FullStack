@@ -24,3 +24,4 @@ Other Tools: Flask-CORS, dotenv, PyPDF2, FAISS, Tokenizers
 
 Live Demo
 - **Frontend (React)**: [Visit Chatbot UI](https://astrobot-frontend-h0zs.onrender.com)
+![Chatbot UI](./assets/chatbot-ui.png)
